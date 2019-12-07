@@ -1,0 +1,6 @@
+deviceid,buildingid,devicename,devicetype,floorno
+e9494ddc-7100-4946-9b9c-64835bdb55ba,481019ea-b519-4f48-b684-de69a10deb64,Fan,Categorical,2
+4b1584b8-269c-4345-a84e-6c5729f8ba56,481019ea-b519-4f48-b684-de69a10deb64,Fan,Categorical,1
+31f41857-6bdb-40a1-83b7-472272d59239,481019ea-b519-4f48-b684-de69a10deb64,Fan,Categorical,4
+29e74a48-0772-4bd5-a49c-c36879237fec,481019ea-b519-4f48-b684-de69a10deb64,Fan,Categorical,3
+6ddc7af5-4f45-47b2-b36f-773572ebd824,481019ea-b519-4f48-b684-de69a10deb64,Fan,Categorical,4
