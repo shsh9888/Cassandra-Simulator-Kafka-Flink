@@ -34,7 +34,7 @@ FLINK_IMAGE_NAME=gcr.io/lab7-258103/fuck:1.0 FLINK_JOB_PARALLELISM=1 envsubst < 
 cd ../../../
 
 echo "Waiting for Cassandra, Wating for a minute.If you see an error here you might have to increase sleep"
-sleep 1m
+sleep 2m
 
 
 ###Adding data to Cassandra
