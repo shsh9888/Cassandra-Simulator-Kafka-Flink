@@ -1,3 +1,113 @@
 buildingid,buildingcity,buildinglocation,buildingname
-63027f12-4503-4ad9-8f32-569f32e059b3,Sunnyvale,"129,564",Facebook
+63027f12-4503-4ad9-8f32-569f32e059b3,Sunnyvale,"129,173",Facebook
 481019ea-b519-4f48-b684-de69a10deb64,Seattle,"91,98",Microsoft
+481019ea-b519-4f48-b684-de69a10deb66,Boulder,"91,100",Amazon
+481019ea-b519-4f48-b684-de69a10deb34,Newyork,"100,45",Apple
+05f4bf52-1a1b-11ea-bfa6-acde48001122,South Woodstock,"40,30",Architecture Application Medicine
+12cf3e14-1a1b-11ea-86c6-acde48001122,Rawlings,"40,147",Provider Net
+d91962f2-1a1b-11ea-88c6-acde48001122,West Medford,"91,90",Systems Electronics Electronic
+da51f666-1a1b-11ea-b285-acde48001122,Pelion,"136,103",Universal Internet
+e3d36eea-1a1b-11ea-990d-acde48001122,Holloman Air Force Base,"169,30",West Virtual Hardware
+e504cc3c-1a1b-11ea-93c2-acde48001122,Progreso,"97,140",Data Digital North
+f0dd09e8-1a1b-11ea-942f-acde48001122,Rosemary Bch,"45,152",Analysis Bell
+f5048942-1a1b-11ea-98fd-acde48001122,Autaugaville,"60,98",Star Analysis Future
+8faaab66-1a1c-11ea-aef0-acde48001122,Lepanto,"97,3",Net North
+8faaf7b0-1a1c-11ea-aef0-acde48001122,Davis Station,"9,111",Innovation Vision Internet
+8fab198e-1a1c-11ea-aef0-acde48001122,Hammondsport,"5,77",Future Speed Electronics
+8fab345a-1a1c-11ea-aef0-acde48001122,Dallas,"50,171",Telecom Electronics Alpha
+8fab4f12-1a1c-11ea-aef0-acde48001122,Kittredge,"149,138",Pacific Electronic Bell
+8fab6a24-1a1c-11ea-aef0-acde48001122,Avalon,"44,99",Max Direct Frontier
+8fab83b0-1a1c-11ea-aef0-acde48001122,Taylor,"174,127",Architecture North
+8fab9c74-1a1c-11ea-aef0-acde48001122,Allerton,"68,84",Direct Architecture Contract
+8fabb4e8-1a1c-11ea-aef0-acde48001122,Jasper,"75,73",Vision Electronics Resource
+8fabcd20-1a1c-11ea-aef0-acde48001122,Mc Laughlin,"11,55",Resource Net Speed
+8fabe51c-1a1c-11ea-aef0-acde48001122,Montague,"122,73",Technology Resource East
+8fabfd54-1a1c-11ea-aef0-acde48001122,Montezuma,"93,63",Building Medicine
+8fac1546-1a1c-11ea-aef0-acde48001122,Todd,"156,72",Data Architecture
+8fac2e6e-1a1c-11ea-aef0-acde48001122,El Reno,"19,81",Internet Alpha
+8fac4926-1a1c-11ea-aef0-acde48001122,El Paso,"153,81",Venture Construction Vision
+8fac62e4-1a1c-11ea-aef0-acde48001122,Simms,"36,38",Net Star Digital
+8fac7b76-1a1c-11ea-aef0-acde48001122,Valdosta,"115,122",Power Advanced
+8fac93f4-1a1c-11ea-aef0-acde48001122,Williston,"129,39",Venture Universal Virtual
+8facac2c-1a1c-11ea-aef0-acde48001122,Boise,"146,96",Architecture Medicine Vision
+8facc496-1a1c-11ea-aef0-acde48001122,Witt,"23,112",Federated Interactive General
+8facdc1a-1a1c-11ea-aef0-acde48001122,Rochester,"11,44",Architecture Vision Graphics
+8facf3e4-1a1c-11ea-aef0-acde48001122,Rimforest,"128,78",Medicine Venture
+8fad0c80-1a1c-11ea-aef0-acde48001122,Cyclone,"72,65",Hardware Net
+8fad2936-1a1c-11ea-aef0-acde48001122,San Jose,"46,114",Star Digital
+8fad43d0-1a1c-11ea-aef0-acde48001122,Raleigh,"143,176",People Network Bell
+8fad5c62-1a1c-11ea-aef0-acde48001122,Palisade,"98,9",Construction Adventure Max
+8fad7440-1a1c-11ea-aef0-acde48001122,Ambrose,"151,26",Medicine Venture Medicine
+8fad8bd8-1a1c-11ea-aef0-acde48001122,Hurdland,"142,141",Innovation Consulting
+8fada38e-1a1c-11ea-aef0-acde48001122,Cynthiana,"175,62",Vision Federated Interactive
+8fadbb6c-1a1c-11ea-aef0-acde48001122,Grambling,"68,150",Universal West Hill
+8fadd426-1a1c-11ea-aef0-acde48001122,Rancho Cordova,"3,44",Virtual Advanced Atlantic
+8faded76-1a1c-11ea-aef0-acde48001122,Crook,"75,15",Technology Electronic Architecture
+8fae055e-1a1c-11ea-aef0-acde48001122,Neskowin,"121,176",Data Construction
+8fae1e5e-1a1c-11ea-aef0-acde48001122,Simpsonville,"116,170",Adventure Solutions
+8fae36be-1a1c-11ea-aef0-acde48001122,Arthur,"52,8",Virtual Frontier Application
+8fae4e10-1a1c-11ea-aef0-acde48001122,Eclectic,"91,157",Star Application Max
+8fae6544-1a1c-11ea-aef0-acde48001122,Cross River,"24,62",Technology Graphics Interactive
+8fae7f20-1a1c-11ea-aef0-acde48001122,Pittsburgh,"106,97",Future Hill People
+8faea2d4-1a1c-11ea-aef0-acde48001122,Seminole,"166,26",Solutions Architecture Electronics
+8faebfa8-1a1c-11ea-aef0-acde48001122,Carlton,"52,146",Universal Future
+8faedae2-1a1c-11ea-aef0-acde48001122,Buffalo,"176,70",Omega Consulting Future
+8faef52c-1a1c-11ea-aef0-acde48001122,De Soto,"155,153",Net Graphics Virtual
+8faf0f26-1a1c-11ea-aef0-acde48001122,Tollesboro,"26,40",Frontier Systems Future
+8faf28e4-1a1c-11ea-aef0-acde48001122,Eureka,"15,109",General Application Architecture
+8faf4234-1a1c-11ea-aef0-acde48001122,Onekama,"37,55",Internet Analysis Network
+8faf65a2-1a1c-11ea-aef0-acde48001122,Yuma,"87,45",Power Signal Research
+8faf7f1a-1a1c-11ea-aef0-acde48001122,Swanton,"6,158",Future Provider
+8faf99a0-1a1c-11ea-aef0-acde48001122,Picayune,"107,126",Interactive Hill
+8fafb340-1a1c-11ea-aef0-acde48001122,Nicholville,"83,19",Max Software Construction
+8fafcc90-1a1c-11ea-aef0-acde48001122,Calhoun,"112,147",Building Max Graphics
+8fafe5b8-1a1c-11ea-aef0-acde48001122,Point Lay,"127,135",Network Medicine
+8fafff76-1a1c-11ea-aef0-acde48001122,Fryeburg,"67,155",Network Universal Industries
+8fb01a06-1a1c-11ea-aef0-acde48001122,Castalia,"107,15",Federated Advanced
+8fb033ba-1a1c-11ea-aef0-acde48001122,Hartford,"88,173",Application Frontier
+8fb04d8c-1a1c-11ea-aef0-acde48001122,Knoxville,"152,161",Net Construction
+8fb0683a-1a1c-11ea-aef0-acde48001122,Hungry Horse,"140,140",Net Power North
+8fb081bc-1a1c-11ea-aef0-acde48001122,Troy,"120,64",East Consulting
+8fb09a62-1a1c-11ea-aef0-acde48001122,Burr Oak,"32,10",Star Technology
+8fb0b312-1a1c-11ea-aef0-acde48001122,Barrow,"107,27",Star Hill Atlantic
+8fb0cc62-1a1c-11ea-aef0-acde48001122,Bridgeville,"84,64",Provider Network Design
+8fb0e5ee-1a1c-11ea-aef0-acde48001122,Spade,"7,101",Venture Medicine Construction
+8fb100ec-1a1c-11ea-aef0-acde48001122,Kirbyville,"44,26",People Atlantic Hill
+8fb11f96-1a1c-11ea-aef0-acde48001122,Temple Bar Marina,"111,178",Graphics Power
+8fb13b02-1a1c-11ea-aef0-acde48001122,Morrill,"126,39",Consulting East
+8fb15632-1a1c-11ea-aef0-acde48001122,Willards,"135,89",Source Alpha
+8fb16ffa-1a1c-11ea-aef0-acde48001122,Springfield,"159,154",Advanced Software Telecom
+8fb18a08-1a1c-11ea-aef0-acde48001122,Clarksville,"6,11",Studio Venture People
+8fb1a47a-1a1c-11ea-aef0-acde48001122,Ava,"53,33",Design Universal Hardware
+8fb1bdc0-1a1c-11ea-aef0-acde48001122,Scottsbluff,"122,154",Advanced Resource Universal
+8fb1d67a-1a1c-11ea-aef0-acde48001122,Garner,"90,11",Innovation Studio
+8fb1eea8-1a1c-11ea-aef0-acde48001122,Oakland,"8,165",Advanced Source
+8fb20762-1a1c-11ea-aef0-acde48001122,Mohler,"165,21",Frontier Application Application
+8fb220da-1a1c-11ea-aef0-acde48001122,Arpin,"105,153",Design Future Construction
+8fb2399e-1a1c-11ea-aef0-acde48001122,New York,"127,179",Construction Universal Direct
+8fb2526c-1a1c-11ea-aef0-acde48001122,Hanalei,"24,137",Data Application
+8fb26b3a-1a1c-11ea-aef0-acde48001122,Calvin,"67,150",Technology Construction General
+8fb28462-1a1c-11ea-aef0-acde48001122,Washington,"39,97",Speed Federated Net
+8fb29ca4-1a1c-11ea-aef0-acde48001122,Chattanooga,"45,28",Direct Virtual Federated
+8fb2b4aa-1a1c-11ea-aef0-acde48001122,Elk Mound,"131,129",Innovation Alpha
+8fb2cc88-1a1c-11ea-aef0-acde48001122,Ardenvoir,"48,97",Solutions Venture Studio
+8fb2e4b6-1a1c-11ea-aef0-acde48001122,Viola,"169,153",Alpha Direct Max
+8fb2fd0c-1a1c-11ea-aef0-acde48001122,Honea Path,"56,146",Alpha Electronic Research
+8fb3151c-1a1c-11ea-aef0-acde48001122,Carmichaels,"159,144",Electronic People Construction
+8fb32caa-1a1c-11ea-aef0-acde48001122,Plainfield,"11,17",Venture Software Contract
+8fb344c4-1a1c-11ea-aef0-acde48001122,Bradenton,"145,107",Advanced Design
+8fb35e28-1a1c-11ea-aef0-acde48001122,Carson,"75,59",Universal Architecture Star
+8fb376c4-1a1c-11ea-aef0-acde48001122,Batavia,"125,101",Application Provider Signal
+8fb38ec0-1a1c-11ea-aef0-acde48001122,Jacksonville,"81,144",Research Systems Application
+8fb3a662-1a1c-11ea-aef0-acde48001122,Ferdinand,"131,21",Architecture General Construction
+8fb3be2c-1a1c-11ea-aef0-acde48001122,Otter,"41,56",Universal Electronics
+8fb3d61e-1a1c-11ea-aef0-acde48001122,Bryant,"70,10",Power Architecture
+8fb3ee88-1a1c-11ea-aef0-acde48001122,Young America,"135,34",Technology Source
+8fb40652-1a1c-11ea-aef0-acde48001122,Ogden,"100,113",Software Technology Solutions
+8fb41dea-1a1c-11ea-aef0-acde48001122,Baldwin,"44,37",Pacific Digital
+8fb4353c-1a1c-11ea-aef0-acde48001122,Long Beach,"15,160",Construction Speed
+8fb44d10-1a1c-11ea-aef0-acde48001122,Moberly,"159,160",Application East Advanced
+8fb4650c-1a1c-11ea-aef0-acde48001122,Chico,"171,125",Building Analysis Architecture
+8fb47c9a-1a1c-11ea-aef0-acde48001122,Groton,"126,98",Building Universal
+8fb49400-1a1c-11ea-aef0-acde48001122,Dallas,"128,165",Vision Contract
+8fb4abc0-1a1c-11ea-aef0-acde48001122,Dallas,"83,178",Atlantic Hill Studio
