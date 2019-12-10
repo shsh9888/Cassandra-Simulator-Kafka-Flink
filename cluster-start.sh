@@ -13,6 +13,7 @@ git clone https://github.com/shsh9888/kafka-on-kubernetes
 git clone https://github.com/shsh9888/cassandra-on-kubernetes.git
 git clone https://github.com/shsh9888/flink
 git clone https://github.com/shsh9888/Cassandra-Avro-Kafka-Python
+git clone https://github.com/shsh9888/Flask-App
 
 
 mkdir -p build
@@ -24,10 +25,9 @@ cd build && kubectl create -f .
 ``
 cd .. && cd flink/flink-container/kubernetes/
 
+##running the flink job
 kubectl create -f job-cluster-service.yaml
-
 FLINK_IMAGE_NAME=gcr.io/lab7-258103/fuck:1.0 FLINK_JOB_PARALLELISM=1 envsubst < job-cluster-job.yaml.template | kubectl create -f -
-
 FLINK_IMAGE_NAME=gcr.io/lab7-258103/fuck:1.0 FLINK_JOB_PARALLELISM=1 envsubst < task-manager-deployment.yaml.template | kubectl create -f -
 
 
@@ -61,3 +61,9 @@ kubectl exec -it $first_running_seed -- bash -c "cqlsh -e \"copy iot.deviceinfo 
 
 ##running the simulator: data producer  
 cd Cassandra-Avro-Kafka-Python && kubectl create -f final-simulator.yaml
+
+cd ..
+
+##deploying the rest endpoint
+cd Flask-App
+sh deploy.sh

@@ -1,4 +1,4 @@
-CREATE KEYSPACE iot WITH replication = {'class': 'SimpleStrategy', 'replication_factor': '3'}  AND durable_writes = true;
+CREATE KEYSPACE iot WITH replication = {'class': 'SimpleStrategy', 'replication_factor': '1'}  AND durable_writes = true;
 
 CREATE TABLE iot.buildinginfo (
     buildingid uuid PRIMARY KEY,
