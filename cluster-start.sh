@@ -14,6 +14,8 @@ git clone https://github.com/shsh9888/cassandra-on-kubernetes.git
 git clone https://github.com/shsh9888/flink
 git clone https://github.com/shsh9888/Cassandra-Avro-Kafka-Python
 git clone https://github.com/shsh9888/Flask-App
+git clone https://github.com/kamalchaturvedi/aggregationcronjobs.git
+
 
 
 mkdir -p build
@@ -53,7 +55,6 @@ kubectl cp deviceinfo.csv $first_running_seed:/home/
 kubectl cp buildinginfo.csv $first_running_seed:/home/
 
 
-
 kubectl exec -it $first_running_seed -- bash -c "cqlsh -e \"SOURCE '/home/schema.cql'"\"
 kubectl exec -it $first_running_seed -- bash -c "cqlsh -e \"copy iot.buildinginfo from '/home/buildinginfo.csv' with header=true\""
 kubectl exec -it $first_running_seed -- bash -c "cqlsh -e \"copy iot.deviceinfo from '/home/deviceinfo.csv' with header=true\""
@@ -62,8 +63,19 @@ kubectl exec -it $first_running_seed -- bash -c "cqlsh -e \"copy iot.deviceinfo 
 ##running the simulator: data producer  
 cd Cassandra-Avro-Kafka-Python && kubectl create -f final-simulator.yaml
 
-cd ..
 
+## aggregation jobs spark
+cd ..
+cd aggregationcronjobs
+
+kubectl create -f perminutejob.yaml
+kubectl create -f perhourjob.yaml
+kubectl create -f perdayjob.yaml
+
+cd ..
 ##deploying the rest endpoint
 cd Flask-App
 sh deploy.sh
+
+echo "Done!!!!!!"
+
